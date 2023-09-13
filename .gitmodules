@@ -1,0 +1,4 @@
+[submodule "lib/evm-dafny"]
+	path = lib/evm-dafny
+	url = https://github.com/Consensys/evm-dafny.git
+	branch = master
